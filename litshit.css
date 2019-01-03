@@ -1,0 +1,51 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 32px;
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: #45213c;
+  color: #FE4365;
+  margin: 8rem 4rem 4rem 4rem;
+  line-height: 2rem;
+  border: 2rem solid #FC9D9A;
+  padding: 0rem 2rem 2rem 2rem;
+}
+
+h1{
+  font-size: 9rem;
+  margin-top: -5rem;
+  line-height: 6.5rem;
+  margin-bottom: 0;
+}
+
+h2 {line-height: 4rem;
+margin: 2rem 0 0 0}
+
+h3 {
+  font-size: 4rem;
+  line-height: 5rem;
+  margin: 0
+}
+
+hr {
+  border-color: #FE4365;
+}
+
+li {
+  margin: 4rem 0 0 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+span {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
