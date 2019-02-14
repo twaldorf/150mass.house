@@ -54,6 +54,14 @@ h4 {
   margin: 4rem 0 2rem 0;
 }
 
+#active h4 {
+  font-family: 'Georgia',serif;
+  font-weight: 300;
+  font-size: 5rem;
+  line-height: 6rem;
+  margin: 1rem 0 0 0;
+}
+
 hr {
   border-color: #a13b4e;
 }
@@ -81,11 +89,15 @@ span {
 }
 
 .current {
-  background-color:
+  background-color:;
 }
 
 #active {
-  color: #e4f76c;
+  color: #6cb4f7;
+}
+
+#active:hover {
+  color: #78beff;
 }
 
 .rsvp {
@@ -105,4 +117,13 @@ a:hover {
 
 a:selected {
   color: #919ff9;
+}
+
+.passed h2 {
+  font-size: 6rem;
+  margin: 4rem 0;
+}
+
+#passed {
+  color: #FC9D9A;
 }
